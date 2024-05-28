@@ -12,7 +12,7 @@ p {
      font-size: 14px;
      font-weight: 50;
      font-family: "Noto Sans KR", sans-serif;
-     color:rgb(255, 255, 255)
+     text-decoration-color:rgb(255, 255, 255)
   }
 h2 { 
     text-align: left;
@@ -20,5 +20,5 @@ h2 {
     font-weight: 400;
     line-height: 44px;
     font-family: "Freeman", sans-serif;
-    color:rgb(255, 255, 255)
-  }
+    text-decoration-color:rgb(255, 255, 255)
+}
