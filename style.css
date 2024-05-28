@@ -8,6 +8,7 @@ ul{
   margin: 0;
   padding: 0%;
   overflow: hidden;
+  color:rgb(255, 255, 255)
 }
 li{
   float: left;
@@ -16,6 +17,9 @@ li a {
   display: block;
   padding: 10px;
   background-color: black;
+  color: white;
+  font-size: 20px;
+  font-family: "Freeman", sans-serif;
 }
 h1 {
     text-align: center;
