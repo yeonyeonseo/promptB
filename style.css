@@ -17,10 +17,14 @@ li a {
   display: block;
   padding: 10px;
   background-color: black;
-  color: white;
+  color: rgb(176, 176, 176);
   font-size: 20px;
   font-family: "Freeman", sans-serif;
   text-decoration: none;
+}
+/*change the link color to white on hover */
+li a:hover{
+  color:white
 }
 h1 {
     text-align: center;
