@@ -1,5 +1,21 @@
 body {
   background-color: rgb(0, 0, 0);
+  margin-left: 5%;
+  margin-right: 5%;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0%;
+  overflow: hidden;
+}
+li{
+  float: left;
+}
+li a {
+  display: block;
+  padding: 10px;
+  background-color: black;
 }
 h1 {
     text-align: center;
