@@ -1,7 +1,7 @@
 body {
   background-color: rgb(0, 0, 0);
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 ul{
   list-style-type: none;
@@ -36,8 +36,7 @@ p {
      color:rgb(255, 255, 255)
   }
 h2 { 
-    text-align: left;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 400;
     line-height: 44px;
     font-family: "Freeman", sans-serif;
