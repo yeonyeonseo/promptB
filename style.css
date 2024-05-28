@@ -1,9 +1,10 @@
 head {
   background-color: rgb(0, 0, 0);
 }
-a{
-  padding-top: 25px;
-  background-color: rgb(255, 255, 255);
+a {
+  border-block: 2%;
+  border-block-style: solid;
+  border-block-color: white;
 }
 h1 {
     text-align: center;
