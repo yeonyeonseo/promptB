@@ -1,32 +1,33 @@
 div {
   text-align: center;
+  background-color: rgb(0, 0, 0);
+  color:rgb(255, 255, 255)
 }
 #top {
-    color:azure
+    
     text-align: center;
     font-size: 40px;
     font-family: "Freeman", sans-serif;
     }
 body {
-     color:azure
-     background-color: rgb(0, 0, 0);
-     font-size: 36px;
+     
+    font-size: 18px;
+    
       }
 p { 
-     color:azure
-     text-align: center;
-     font-size: 22px;
+     text-align: left;
+     font-size: 18px;
      font-weight: 50;
      line-height: 35px;
      font-family: "Gruppo", sans-serif;
   }
 h2 { 
-    font-family: "Freeman", sans-serif;
+    
     text-align: center;
-    color:azure
-    font-size: 32px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 44px;
+    font-family: "Freeman", sans-serif;
   }
 li { 
     text-align: center;
@@ -35,8 +36,7 @@ li {
 }
 a { 
     text-align: center;
-    color:azure
-    font-size: 28px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 44px;
     font-family: "Jersey 10", sans-serif;
