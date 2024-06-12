@@ -112,6 +112,7 @@ figcaption {
 .contents p span {
   font-family: "times";
   font-size: 1em;
+  color: #ffffff;
 }
 
 
@@ -137,6 +138,7 @@ figcaption {
 
 table {
   font-size: 1.4rem;
+  color: #ffffff;
   line-height: 1.4em;
   background: #000000;
   border-top: 2px solid #b5b5b5;
