@@ -15,6 +15,8 @@ body {
   background: #000000;
   font-family: "Pretendard", sans-serif;
   word-break: keep-all;
+  font-size: 30px;
+  text-align: center;
 }
 
 a, a:link, a:visited {
@@ -54,7 +56,7 @@ h2 {
 
 .header_wrap li {
   display: inline-block;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   line-height: 5vh;
   padding-left: 1vw;
   color:rgb(255, 255, 255)
@@ -111,7 +113,8 @@ figcaption {
 
 .contents p span {
   font-family: "times";
-  font-size: 1em;
+  font-size: .7em;
+  text-align: center;
   color: #ffffff;
 }
 
@@ -130,19 +133,20 @@ figcaption {
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 800px) {
   .column {
     width: 100%;
+    height: auto;
   }
 }
 
 table {
   font-size: 1.4rem;
-  color: #ffffff;
+  color: #969696;
   line-height: 1.4em;
   background: #000000;
   border-top: 2px solid #b5b5b5;
-  border-bottom: 2px solid #ffffff;
+  border-bottom: 2px solid #b5b5b5;
   border-collapse: collapse;
   width: 100%;
 }
@@ -163,7 +167,7 @@ table td:nth-child(2) {
 
 @media screen and (max-width: 1024px) {
   .contents p {
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 }
 
@@ -196,13 +200,13 @@ table td:nth-child(2) {
 
 @media screen and (max-width: 450px) {
   .contents p {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
 }
 
 
 @media screen and (max-width: 350px) {
   .contents p {
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
 }
