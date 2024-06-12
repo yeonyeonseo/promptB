@@ -12,13 +12,13 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #ffffff;
+  background: #000000;
   font-family: "Pretendard", sans-serif;
   word-break: keep-all;
 }
 
 a, a:link, a:visited {
-  color: #BC8F8F;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -35,7 +35,7 @@ h2 {
   font-family: "times", serif;
   font-size: 2.8rem;
   font-weight: 400;
-  color: #BC8F8F;
+  color: #ffffff;
   margin: 0;
   text-align: center;
 }
@@ -45,7 +45,7 @@ h2 {
   display: flex;
   position: fixed;
   justify-content: space-between;
-  height: 5vh;
+  height: 10vh;
   background-color: #000000;
   list-style-type: none;
   text-align: center;
@@ -57,6 +57,7 @@ h2 {
   font-size: 1.2rem;
   line-height: 5vh;
   padding-left: 1vw;
+  color:rgb(255, 255, 255)
 }
 
 .figure { 
